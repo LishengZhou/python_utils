@@ -1,6 +1,6 @@
 ## Created by:	Lisheng Zhou
-## Date:		    15JUN2018
-## Purpose:		  Extract chrom/pos from rs # 
+## Date:		15JUN2018
+## Purpose:		Extract chrom/pos from rs # 
 ##              dbsnp144, build 38
 ## =================================================
 
